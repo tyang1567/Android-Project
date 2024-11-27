@@ -7,20 +7,22 @@
 1. [Wireframes](#Wireframes)
 
 ## Overview
-
+Android application that is interactive and provides a new, less time-consuming way for users to journal.
 ### Description
+A personal diary/journal that consists of pictures. When the user takes a picture and uses it as a journal entry, the location where the photo was taken is recorded. The user may also add a description of the photo along with the entry.
 
 [Description of your app]
 
 ### App Evaluation
 
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Category:** Personal
+- **Mobile:** The app uses the camera and captures the location of the pictures taken, making the photos more memorable.
+- **Story:** Creates a memorable journal that users can look back on. Memories are an important factor that make us who we are.
+- **Market:** For people that want to start journaling, or like to journal, this could be a very memorable, but not as time-consuming way, this is a new approach that is less time-consuming but just as memorable and stress-relieving. The app could also be very appealing to those who like photography. It would be well-received by people of all ages since photography and journaling is not particularly niche.
+- **Habit:** People are using this daily, or multiple times a week to record their day-to-day lives or adventures. 
+- **Scope:** It is reasonable for this app to be completed by the end of the program; and there are also
+many available APIs to help with the different components of this app. 
 
 ## Product Spec
 
@@ -28,15 +30,16 @@
 
 **Required Features**
 
-1. [fill in your required user features here]
-2. ...
-3. ...
+1. User can take photos using camera
+2. User can view their previously taken photos
+3. User can add descriptions to their photos
 
 **Optional Features**
 
-1. [fill in your optional user features here]
-2. ...
-3. ...
+1. User can create multiple journals, or a "collection" of photos
+2. User can share their photos/collection
+3. User can favorite their treasured photos
+4. User can add certain colletions to their favorites
 
 ### 2. Screen Archetypes
 
