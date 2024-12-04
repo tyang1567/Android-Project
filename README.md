@@ -33,39 +33,52 @@ many available APIs to help with the different components of this app.
 1. User can take photos using camera
 2. User can view their previously taken photos
 3. User can add descriptions to their photos
+4. User can create a new account
+5. User can login
 
 **Optional Features**
 
 1. User can create multiple journals, or a "collection" of photos
-2. User can share their photos/collection
-3. User can favorite their treasured photos
-4. User can add certain colletions to their favorites
+2. User can favorite their treasured photos
+3. User can add certain collections to their favorites
 
 ### 2. Screen Archetypes
 
-- [list first screen here]
-  - [list associated required story here]
-  - ...
-- [list second screen here]
-  - [list associated required story here]
-  - ...
+- [Creation (1)]
+  - [User can take photos using camera]
+- [Creation (2)]
+  - [User can view their newly taken photo and optionally add a description.]
+- [Detail]
+  - [User can view their previously taken photos]
+- [Registration Screen]
+  - [User can create a new account]
+- [Login Screen]
+  - [User can login]
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* [Home Screen]
+  - This is where the user will view their pictures taken
+* [Camera]
+  - This is the tab that will open the camera.
+* [Connect]
+  - Present users with the option to either log in or sign up.
 
 **Flow Navigation** (Screen to Screen)
 
-- [list first screen here]
-  - [list screen navigation here]
-  - ...
-- [list second screen here]
-  - [list screen navigation here]
-  - ...
+- [Creation (1)]
+  - [=> Creation(2)]
+  - Screen where the photo taken is shown, and user can add a description 
+- [Registration Screen]
+  - [=> Home]
+- [Creation(2)]
+  - [=> Home]
+- [Detail]
+  - [=> None]
+- [Login Screen]
+  - [=> Home]
 
 ## Wireframes
 
