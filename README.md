@@ -79,7 +79,8 @@ many available APIs to help with the different components of this app.
   - [=> None]
 - [Login Screen]
   - [=> Home]
--[Home Screen]
+    
+- [Home Screen]
   - [=> Detail]
 
 ## Wireframes
