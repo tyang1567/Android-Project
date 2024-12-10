@@ -98,14 +98,16 @@ many available APIs to help with the different components of this app.
 
 ## GitHub Project board
 
-[Add screenshot of your Project Board with three milestones visible in
-this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+![image](https://github.com/user-attachments/assets/f89a8210-1512-47bd-a76e-9d48350b815f)
+
 
 ## Issue cards
 
-- [Add screenshot of your Project Board with the issues that you've been working on for this unit's milestone] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
-- [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**. It should include issues for next unit with assigned owners.] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+- [Add screenshot of your Project Board with the issues that you've been working on for this unit's milestone] ![image](https://github.com/user-attachments/assets/a7c64952-0d14-4ca8-aadf-cca744543918)
+
+- [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**.] ![image](https://github.com/user-attachments/assets/f4efe801-83a1-42f2-8c96-3d6096408595)
+- 
+**PLEASE NOTE: Since this is a solo project it is not written which group member should be handing each issue, since it is not a group project.**
 
 ## Issues worked on this sprint
 
