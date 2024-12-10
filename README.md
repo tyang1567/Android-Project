@@ -103,7 +103,8 @@ many available APIs to help with the different components of this app.
 
 ## Issue cards
 
-- [Add screenshot of your Project Board with the issues that you've been working on for this unit's milestone] ![image](https://github.com/user-attachments/assets/a7c64952-0d14-4ca8-aadf-cca744543918)
+- [Add screenshot of your Project Board with the issues that you've been working on for this unit's milestone] ![image](https://github.com/user-attachments/assets/85bc6dd2-f9e9-4aed-a3b4-07d6cf7c7c32)
+
 
 - [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**.] ![image](https://github.com/user-attachments/assets/432dfe81-6a42-43fb-9050-c890a5280d89)
 
