@@ -98,7 +98,8 @@ many available APIs to help with the different components of this app.
 
 ## GitHub Project board
 
-![image](https://github.com/user-attachments/assets/f89a8210-1512-47bd-a76e-9d48350b815f)
+![image](https://github.com/user-attachments/assets/159b8520-ba11-4bf5-858d-8c29a3feb50b)
+
 
 
 ## Issue cards
