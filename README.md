@@ -85,7 +85,11 @@ many available APIs to help with the different components of this app.
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+![image](https://github.com/user-attachments/assets/eced7b86-1508-4cf1-8e25-ae6fd78fe3c5)
+![image](https://github.com/user-attachments/assets/14ef3806-60f4-41b3-b99a-ef7ba115d0f6)
+![image](https://github.com/user-attachments/assets/753c1e75-5ac2-438a-8529-a27bcfd9056b)
+
+
 
 <br>
 
