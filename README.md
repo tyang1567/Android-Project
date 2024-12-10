@@ -105,7 +105,8 @@ many available APIs to help with the different components of this app.
 
 - [Add screenshot of your Project Board with the issues that you've been working on for this unit's milestone] ![image](https://github.com/user-attachments/assets/a7c64952-0d14-4ca8-aadf-cca744543918)
 
-- [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**.] ![image](https://github.com/user-attachments/assets/f4efe801-83a1-42f2-8c96-3d6096408595)
+- [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**.] ![image](https://github.com/user-attachments/assets/432dfe81-6a42-43fb-9050-c890a5280d89)
+
 - 
 **PLEASE NOTE: Since this is a solo project it is not written which group member should be handing each issue, since it is not a group project.**
 
