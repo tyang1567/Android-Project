@@ -139,14 +139,16 @@ Set up navigation bar, created basic layout
 [Add screenshot of your Project Board with the updated status of issues for Milestone 3. Note that these should include the updated issues you worked on for this sprint and not be a duplicate of Milestone 2 Project board.] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
 ## Completed user stories
+Completed user story (completed implementation, but cannot be shown through an emulator): user can take photos using camera
 
-- List the completed user stories from this unit
-- List any pending user stories / any user stories you decided to cut
-from the original requirements
+- User stories to be cut:
+  - User can view their previously taken photos (regrettably, cannot be implemented as the camera on the emulator does not work). 
 
 [Add video/gif of your current application that shows build progress]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+- At first, the app asked for permission to access the camera, which is how I knew that the application was working correctly, but it is an emulator issue. Now when you click the button, it only displays a
+  toast that states that no camera app is available.
+![milestone3](https://github.com/user-attachments/assets/355910e9-a647-47b9-a280-a13602b041ba)
 
 ## App Demo Video
 
-- Embed the YouTube/Vimeo link of your Completed Demo Day prep video
+- [Embed the YouTube/Vimeo link of your Completed Demo Day prep video](https://youtu.be/R4SQricufac)
