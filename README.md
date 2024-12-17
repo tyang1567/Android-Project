@@ -136,7 +136,9 @@ Set up navigation bar, created basic layout
 
 ## GitHub Project board
 
-[Add screenshot of your Project Board with the updated status of issues for Milestone 3. Note that these should include the updated issues you worked on for this sprint and not be a duplicate of Milestone 2 Project board.] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+[Add screenshot of your Project Board with the updated status of issues for Milestone 3. Note that these should include the updated issues you worked on for this sprint and not be a duplicate of Milestone 2 Project board.] 
+![image](https://github.com/user-attachments/assets/bf23c2f8-2848-4f78-ae16-f24b50e154bf)
+
 
 ## Completed user stories
 Completed user story (completed implementation, but cannot be shown through an emulator): user can take photos using camera
