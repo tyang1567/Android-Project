@@ -150,7 +150,8 @@ Completed user story (completed implementation, but cannot be shown through an e
 - At first, the app asked for permission to access the camera, which is how I knew that the application was working correctly, but it is an emulator issue. Now when you click the button, it only displays a
   toast that states that no camera app is available.
 ![milestone3](https://github.com/user-attachments/assets/355910e9-a647-47b9-a280-a13602b041ba)
-
+## DEMO Day Prep Video: 
+[Demo Day Prep Viedo](https://youtu.be/R4SQricufac)
 ## App Demo Video
 
-- [Embed the YouTube/Vimeo link of your Completed Demo Day prep video](https://youtu.be/R4SQricufac)
+- [Embed the YouTube/Vimeo link of your Completed Demo Day prep video](https://youtu.be/3BWWp7Zb1yk)
