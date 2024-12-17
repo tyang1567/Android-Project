@@ -124,8 +124,8 @@ many available APIs to help with the different components of this app.
 
 ## Issues worked on this sprint
 
-- List the issues you completed this sprint
-- [Add giphy that shows current build progress for Milestone 2. Note: We will be looking for progression of work between Milestone 2 and 3. Make sure your giphys are not duplicated and clearly show the change from Sprint 1 to 2.]
+- Completed bottom navigation menu
+- ![milestone2](https://github.com/user-attachments/assets/e093d1e2-3402-4bc3-9eb2-8b7cf248ba3d)
 
 <br>
 
