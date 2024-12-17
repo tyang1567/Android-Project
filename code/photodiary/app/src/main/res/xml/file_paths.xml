@@ -1,0 +1,6 @@
+<!-- file_paths.xml -->
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path
+        android:name="external_files"
+        android:path="Android/data/com.example.photodiary/files/" />
+</paths>
