@@ -123,6 +123,9 @@ many available APIs to help with the different components of this app.
 **PLEASE NOTE: Since this is a solo project it is not written which group member should be handing each issue, since it is not a group project.**
 
 ## Issues worked on this sprint
+![image](https://github.com/user-attachments/assets/4e84be2e-f1e4-444f-8e7a-e72c11a47436)
+Set up navigation bar, created basic layout
+
 
 - Completed bottom navigation menu
 - ![milestone2](https://github.com/user-attachments/assets/e093d1e2-3402-4bc3-9eb2-8b7cf248ba3d)
